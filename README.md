@@ -7,4 +7,4 @@ Sitting script to QBcore
 -Add the following code to your server.cfg/resouces.cfg
 
 # Dependencies
--qb-target
+- qb-target
